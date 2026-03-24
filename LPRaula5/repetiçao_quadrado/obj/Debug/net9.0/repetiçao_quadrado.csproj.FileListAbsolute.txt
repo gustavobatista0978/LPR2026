@@ -1,0 +1,14 @@
+C:\Users\alunos\Desktop\LPRaula5\repetiçao_quadrado\bin\Debug\net9.0\repetiçao_quadrado.exe
+C:\Users\alunos\Desktop\LPRaula5\repetiçao_quadrado\bin\Debug\net9.0\repetiçao_quadrado.deps.json
+C:\Users\alunos\Desktop\LPRaula5\repetiçao_quadrado\bin\Debug\net9.0\repetiçao_quadrado.runtimeconfig.json
+C:\Users\alunos\Desktop\LPRaula5\repetiçao_quadrado\bin\Debug\net9.0\repetiçao_quadrado.dll
+C:\Users\alunos\Desktop\LPRaula5\repetiçao_quadrado\bin\Debug\net9.0\repetiçao_quadrado.pdb
+C:\Users\alunos\Desktop\LPRaula5\repetiçao_quadrado\obj\Debug\net9.0\repetiçao_quadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\LPRaula5\repetiçao_quadrado\obj\Debug\net9.0\repetiçao_quadrado.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\LPRaula5\repetiçao_quadrado\obj\Debug\net9.0\repetiçao_quadrado.AssemblyInfo.cs
+C:\Users\alunos\Desktop\LPRaula5\repetiçao_quadrado\obj\Debug\net9.0\repetiçao_quadrado.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\LPRaula5\repetiçao_quadrado\obj\Debug\net9.0\repetiçao_quadrado.dll
+C:\Users\alunos\Desktop\LPRaula5\repetiçao_quadrado\obj\Debug\net9.0\refint\repetiçao_quadrado.dll
+C:\Users\alunos\Desktop\LPRaula5\repetiçao_quadrado\obj\Debug\net9.0\repetiçao_quadrado.pdb
+C:\Users\alunos\Desktop\LPRaula5\repetiçao_quadrado\obj\Debug\net9.0\repetiçao_quadrado.genruntimeconfig.cache
+C:\Users\alunos\Desktop\LPRaula5\repetiçao_quadrado\obj\Debug\net9.0\ref\repetiçao_quadrado.dll

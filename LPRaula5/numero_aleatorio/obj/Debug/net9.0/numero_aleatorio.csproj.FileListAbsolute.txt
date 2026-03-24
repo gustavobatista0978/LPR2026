@@ -1,0 +1,14 @@
+C:\Users\alunos\Desktop\LPRaula5\numero_aleatorio\bin\Debug\net9.0\numero_aleatorio.exe
+C:\Users\alunos\Desktop\LPRaula5\numero_aleatorio\bin\Debug\net9.0\numero_aleatorio.deps.json
+C:\Users\alunos\Desktop\LPRaula5\numero_aleatorio\bin\Debug\net9.0\numero_aleatorio.runtimeconfig.json
+C:\Users\alunos\Desktop\LPRaula5\numero_aleatorio\bin\Debug\net9.0\numero_aleatorio.dll
+C:\Users\alunos\Desktop\LPRaula5\numero_aleatorio\bin\Debug\net9.0\numero_aleatorio.pdb
+C:\Users\alunos\Desktop\LPRaula5\numero_aleatorio\obj\Debug\net9.0\numero_aleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\LPRaula5\numero_aleatorio\obj\Debug\net9.0\numero_aleatorio.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\LPRaula5\numero_aleatorio\obj\Debug\net9.0\numero_aleatorio.AssemblyInfo.cs
+C:\Users\alunos\Desktop\LPRaula5\numero_aleatorio\obj\Debug\net9.0\numero_aleatorio.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\LPRaula5\numero_aleatorio\obj\Debug\net9.0\numero_aleatorio.dll
+C:\Users\alunos\Desktop\LPRaula5\numero_aleatorio\obj\Debug\net9.0\refint\numero_aleatorio.dll
+C:\Users\alunos\Desktop\LPRaula5\numero_aleatorio\obj\Debug\net9.0\numero_aleatorio.pdb
+C:\Users\alunos\Desktop\LPRaula5\numero_aleatorio\obj\Debug\net9.0\numero_aleatorio.genruntimeconfig.cache
+C:\Users\alunos\Desktop\LPRaula5\numero_aleatorio\obj\Debug\net9.0\ref\numero_aleatorio.dll

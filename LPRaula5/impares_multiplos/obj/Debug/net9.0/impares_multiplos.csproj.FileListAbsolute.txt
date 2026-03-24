@@ -1,0 +1,14 @@
+C:\Users\alunos\Desktop\LPRaula5\impares_multiplos\bin\Debug\net9.0\impares_multiplos.exe
+C:\Users\alunos\Desktop\LPRaula5\impares_multiplos\bin\Debug\net9.0\impares_multiplos.deps.json
+C:\Users\alunos\Desktop\LPRaula5\impares_multiplos\bin\Debug\net9.0\impares_multiplos.runtimeconfig.json
+C:\Users\alunos\Desktop\LPRaula5\impares_multiplos\bin\Debug\net9.0\impares_multiplos.dll
+C:\Users\alunos\Desktop\LPRaula5\impares_multiplos\bin\Debug\net9.0\impares_multiplos.pdb
+C:\Users\alunos\Desktop\LPRaula5\impares_multiplos\obj\Debug\net9.0\impares_multiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\LPRaula5\impares_multiplos\obj\Debug\net9.0\impares_multiplos.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\LPRaula5\impares_multiplos\obj\Debug\net9.0\impares_multiplos.AssemblyInfo.cs
+C:\Users\alunos\Desktop\LPRaula5\impares_multiplos\obj\Debug\net9.0\impares_multiplos.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\LPRaula5\impares_multiplos\obj\Debug\net9.0\impares_multiplos.dll
+C:\Users\alunos\Desktop\LPRaula5\impares_multiplos\obj\Debug\net9.0\refint\impares_multiplos.dll
+C:\Users\alunos\Desktop\LPRaula5\impares_multiplos\obj\Debug\net9.0\impares_multiplos.pdb
+C:\Users\alunos\Desktop\LPRaula5\impares_multiplos\obj\Debug\net9.0\impares_multiplos.genruntimeconfig.cache
+C:\Users\alunos\Desktop\LPRaula5\impares_multiplos\obj\Debug\net9.0\ref\impares_multiplos.dll
