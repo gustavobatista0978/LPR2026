@@ -1,4 +1,4 @@
-﻿string escolha = "";
+﻿﻿string escolha = "";
 
 Console.WriteLine("Bem-vindo ao RPG!");
 Console.WriteLine("Escolha sua classe:");
