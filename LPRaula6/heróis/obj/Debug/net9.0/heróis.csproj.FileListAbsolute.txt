@@ -1,0 +1,14 @@
+C:\Users\alunos\Desktop\LPRaula6\heróis\obj\Debug\net9.0\heróis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\LPRaula6\heróis\obj\Debug\net9.0\heróis.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\LPRaula6\heróis\obj\Debug\net9.0\heróis.AssemblyInfo.cs
+C:\Users\alunos\Desktop\LPRaula6\heróis\obj\Debug\net9.0\heróis.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\LPRaula6\heróis\bin\Debug\net9.0\heróis.exe
+C:\Users\alunos\Desktop\LPRaula6\heróis\bin\Debug\net9.0\heróis.deps.json
+C:\Users\alunos\Desktop\LPRaula6\heróis\bin\Debug\net9.0\heróis.runtimeconfig.json
+C:\Users\alunos\Desktop\LPRaula6\heróis\bin\Debug\net9.0\heróis.dll
+C:\Users\alunos\Desktop\LPRaula6\heróis\bin\Debug\net9.0\heróis.pdb
+C:\Users\alunos\Desktop\LPRaula6\heróis\obj\Debug\net9.0\heróis.dll
+C:\Users\alunos\Desktop\LPRaula6\heróis\obj\Debug\net9.0\refint\heróis.dll
+C:\Users\alunos\Desktop\LPRaula6\heróis\obj\Debug\net9.0\heróis.pdb
+C:\Users\alunos\Desktop\LPRaula6\heróis\obj\Debug\net9.0\heróis.genruntimeconfig.cache
+C:\Users\alunos\Desktop\LPRaula6\heróis\obj\Debug\net9.0\ref\heróis.dll
