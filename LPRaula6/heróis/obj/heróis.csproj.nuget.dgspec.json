@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alunos\\Desktop\\LPRaula6\\heróis\\heróis.csproj": {}
+    "C:\\Users\\alunos\\Documents\\LPR2026\\LPRaula6\\heróis\\heróis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alunos\\Desktop\\LPRaula6\\heróis\\heróis.csproj": {
+    "C:\\Users\\alunos\\Documents\\LPR2026\\LPRaula6\\heróis\\heróis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alunos\\Desktop\\LPRaula6\\heróis\\heróis.csproj",
+        "projectUniqueName": "C:\\Users\\alunos\\Documents\\LPR2026\\LPRaula6\\heróis\\heróis.csproj",
         "projectName": "heróis",
-        "projectPath": "C:\\Users\\alunos\\Desktop\\LPRaula6\\heróis\\heróis.csproj",
+        "projectPath": "C:\\Users\\alunos\\Documents\\LPR2026\\LPRaula6\\heróis\\heróis.csproj",
         "packagesPath": "C:\\Users\\alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alunos\\Desktop\\LPRaula6\\heróis\\obj\\",
+        "outputPath": "C:\\Users\\alunos\\Documents\\LPR2026\\LPRaula6\\heróis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",

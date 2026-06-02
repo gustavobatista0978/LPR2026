@@ -1,0 +1,14 @@
+C:\Users\alunos\Desktop\LPRAula2\rpg\bin\Debug\net9.0\rpg.exe
+C:\Users\alunos\Desktop\LPRAula2\rpg\bin\Debug\net9.0\rpg.deps.json
+C:\Users\alunos\Desktop\LPRAula2\rpg\bin\Debug\net9.0\rpg.runtimeconfig.json
+C:\Users\alunos\Desktop\LPRAula2\rpg\bin\Debug\net9.0\rpg.dll
+C:\Users\alunos\Desktop\LPRAula2\rpg\bin\Debug\net9.0\rpg.pdb
+C:\Users\alunos\Desktop\LPRAula2\rpg\obj\Debug\net9.0\rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\LPRAula2\rpg\obj\Debug\net9.0\rpg.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\LPRAula2\rpg\obj\Debug\net9.0\rpg.AssemblyInfo.cs
+C:\Users\alunos\Desktop\LPRAula2\rpg\obj\Debug\net9.0\rpg.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\LPRAula2\rpg\obj\Debug\net9.0\rpg.dll
+C:\Users\alunos\Desktop\LPRAula2\rpg\obj\Debug\net9.0\refint\rpg.dll
+C:\Users\alunos\Desktop\LPRAula2\rpg\obj\Debug\net9.0\rpg.pdb
+C:\Users\alunos\Desktop\LPRAula2\rpg\obj\Debug\net9.0\rpg.genruntimeconfig.cache
+C:\Users\alunos\Desktop\LPRAula2\rpg\obj\Debug\net9.0\ref\rpg.dll

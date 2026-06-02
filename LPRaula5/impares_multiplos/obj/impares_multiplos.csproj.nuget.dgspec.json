@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alunos\\Desktop\\LPRaula5\\impares_multiplos\\impares_multiplos.csproj": {}
+    "C:\\Users\\alunos\\Documents\\LPR2026\\LPRaula5\\impares_multiplos\\impares_multiplos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alunos\\Desktop\\LPRaula5\\impares_multiplos\\impares_multiplos.csproj": {
+    "C:\\Users\\alunos\\Documents\\LPR2026\\LPRaula5\\impares_multiplos\\impares_multiplos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alunos\\Desktop\\LPRaula5\\impares_multiplos\\impares_multiplos.csproj",
+        "projectUniqueName": "C:\\Users\\alunos\\Documents\\LPR2026\\LPRaula5\\impares_multiplos\\impares_multiplos.csproj",
         "projectName": "impares_multiplos",
-        "projectPath": "C:\\Users\\alunos\\Desktop\\LPRaula5\\impares_multiplos\\impares_multiplos.csproj",
+        "projectPath": "C:\\Users\\alunos\\Documents\\LPR2026\\LPRaula5\\impares_multiplos\\impares_multiplos.csproj",
         "packagesPath": "C:\\Users\\alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alunos\\Desktop\\LPRaula5\\impares_multiplos\\obj\\",
+        "outputPath": "C:\\Users\\alunos\\Documents\\LPR2026\\LPRaula5\\impares_multiplos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",

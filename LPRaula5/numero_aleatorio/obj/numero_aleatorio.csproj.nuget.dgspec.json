@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alunos\\Desktop\\LPRaula5\\numero_aleatorio\\numero_aleatorio.csproj": {}
+    "C:\\Users\\alunos\\Documents\\LPR2026\\LPRaula5\\numero_aleatorio\\numero_aleatorio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alunos\\Desktop\\LPRaula5\\numero_aleatorio\\numero_aleatorio.csproj": {
+    "C:\\Users\\alunos\\Documents\\LPR2026\\LPRaula5\\numero_aleatorio\\numero_aleatorio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alunos\\Desktop\\LPRaula5\\numero_aleatorio\\numero_aleatorio.csproj",
+        "projectUniqueName": "C:\\Users\\alunos\\Documents\\LPR2026\\LPRaula5\\numero_aleatorio\\numero_aleatorio.csproj",
         "projectName": "numero_aleatorio",
-        "projectPath": "C:\\Users\\alunos\\Desktop\\LPRaula5\\numero_aleatorio\\numero_aleatorio.csproj",
+        "projectPath": "C:\\Users\\alunos\\Documents\\LPR2026\\LPRaula5\\numero_aleatorio\\numero_aleatorio.csproj",
         "packagesPath": "C:\\Users\\alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alunos\\Desktop\\LPRaula5\\numero_aleatorio\\obj\\",
+        "outputPath": "C:\\Users\\alunos\\Documents\\LPR2026\\LPRaula5\\numero_aleatorio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",
