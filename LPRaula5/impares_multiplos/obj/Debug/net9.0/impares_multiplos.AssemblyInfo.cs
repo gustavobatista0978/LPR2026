@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("impares_multiplos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20832f02081dbe21e5d67d34ea588ee2fbe6b514")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+276f88947dd7c6bb4b462438ec49abb22988f0bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("impares_multiplos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("impares_multiplos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
