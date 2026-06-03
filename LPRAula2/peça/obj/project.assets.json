@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alunos\\Documents\\LPR2026\\LPRAula2\\peça\\peça.csproj",
+      "projectUniqueName": "C:\\Users\\alunos\\Documents\\LPR2026\\LPRaula2\\peça\\peça.csproj",
       "projectName": "peça",
-      "projectPath": "C:\\Users\\alunos\\Documents\\LPR2026\\LPRAula2\\peça\\peça.csproj",
+      "projectPath": "C:\\Users\\alunos\\Documents\\LPR2026\\LPRaula2\\peça\\peça.csproj",
       "packagesPath": "C:\\Users\\alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alunos\\Documents\\LPR2026\\LPRAula2\\peça\\obj\\",
+      "outputPath": "C:\\Users\\alunos\\Documents\\LPR2026\\LPRaula2\\peça\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",

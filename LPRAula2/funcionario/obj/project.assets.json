@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alunos\\Documents\\LPR2026\\LPRAula2\\funcionario\\ex003.csproj",
+      "projectUniqueName": "C:\\Users\\alunos\\Documents\\LPR2026\\LPRaula2\\funcionario\\ex003.csproj",
       "projectName": "ex003",
-      "projectPath": "C:\\Users\\alunos\\Documents\\LPR2026\\LPRAula2\\funcionario\\ex003.csproj",
+      "projectPath": "C:\\Users\\alunos\\Documents\\LPR2026\\LPRaula2\\funcionario\\ex003.csproj",
       "packagesPath": "C:\\Users\\alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alunos\\Documents\\LPR2026\\LPRAula2\\funcionario\\obj\\",
+      "outputPath": "C:\\Users\\alunos\\Documents\\LPR2026\\LPRaula2\\funcionario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",
