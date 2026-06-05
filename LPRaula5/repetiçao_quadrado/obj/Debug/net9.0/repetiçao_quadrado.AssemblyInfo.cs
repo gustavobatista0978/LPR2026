@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("repetiçao_quadrado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a25eff8dedd2036be8dd8c9c492cd558c6326c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9a8c95905236c82580b60463719ae42937d41e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("repetiçao_quadrado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("repetiçao_quadrado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
