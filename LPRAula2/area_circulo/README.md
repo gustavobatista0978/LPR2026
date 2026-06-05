@@ -4,7 +4,7 @@
 
 Este programa em C++ calcula a área de um círculo com base no valor do raio informado pelo usuário.
 
-O usuário digita o raio, e o programa utiliza a fórmula matemática da área do círculo.
+O usuário digita o raio, e o programa utiliza a fórmula matemática da área do círculo
 
 Depois disso, o resultado é exibido com 4 casas decimais.
 ---
