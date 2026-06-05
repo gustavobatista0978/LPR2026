@@ -18,7 +18,7 @@ Depois disso, o programa exibe informações sobre a classe escolhida. Caso seja
    - `2` para Mago  
    - `3` para Arqueira  
 
-3. O usuário digita a opção desejada.
+3. O usuário digita a sua escolha.
 
 4. O programa utiliza a estrutura `switch` para verificar a escolha feita.
 
