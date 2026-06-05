@@ -4,7 +4,7 @@
 
 Este programa em C++ apresenta um menu interativo com diferentes exercícios matemáticos.
 
-O usuário pode escolher entre calcular a soma de um intervalo de números, o fatorial de um número ou a média de vários valores informados.
+O usuário pode escolher entre calcular a soma de um intervalo de números, o fatorial de um número ou a média de vários valores digitados.
 
 Depois disso, o programa exibe o resultado da operação escolhida e retorna ao menu até que o usuário decida sair.
 

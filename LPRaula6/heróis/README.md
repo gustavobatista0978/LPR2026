@@ -21,7 +21,7 @@ Depois disso, o programa continua funcionando por meio de um menu principal até
    - `0` → Sair do programa
 
 3. Na opção **Cadastrar Heróis**:
-   - O usuário cadastra `5 heróis`.
+   - O usuário cadastra 5 heróisSS.
    - Para cada herói são informados:
      - Nome
      - Poder

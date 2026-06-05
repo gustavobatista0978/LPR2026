@@ -4,7 +4,7 @@
 
 Este programa em C++ inverte a ordem dos dígitos de um número inteiro.
 
-O programa utiliza uma função chamada `inverterInteiro()` para separar os dígitos do número e reconstruí-los na ordem inversa.
+O programa utiliza uma função chamada `inverterInteiro()` para separar os dígitos do número e coloca-los na ordem inversa.
 
 Depois disso, o número original e o número invertido são exibidos na tela.
 

@@ -8,7 +8,7 @@ void exercicio1(int inicio, int fim) {
     for (int i = inicio; i <= fim; i++) {
         soma += i;
     }
-    cout << "\n[Ex 1] A soma dos numeros entre " << inicio << " e " << fim << " e: " << soma << endl;
+    cout << "\n[Ex 1] A soma dos numeros entre " << inicio << " e " << fim << " é: " << soma << endl;
 }
 
 void exercicio3(int n) {
@@ -20,7 +20,7 @@ void exercicio3(int n) {
     for (int i = 1; i <= n; i++) {
         fatorial *= i;
     }
-    cout << "\n[Ex 3] O fatorial de " << n << " e: " << fatorial << endl;
+    cout << "\n[Ex 3] O fatorial de " << n << " é: " << fatorial << endl;
 }
 
 void exercicio4(int quantidade) {
