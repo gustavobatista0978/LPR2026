@@ -4,7 +4,7 @@
 
 Este programa em C++ simula o tempo necessário para completar `1000 horas` de treinamento Jedi.
 
-O usuário informa quantas horas treina por dia, e o programa calcula quantos dias, semanas e meses serão necessários para alcançar a meta, considerando treino apenas de segunda a sexta-feira.
+O usuário informa quantas horas ele treina por dia, e o programa calcula quantos dias, semanas e meses serão necessários para alcançar a meta, considerando treino apenas de segunda a sexta-feira.
 
 Depois disso, os resultados são exibidos na tela.
 

@@ -21,7 +21,7 @@ Depois disso, o programa informa o número correto e a quantidade de tentativas 
 
 5. A cada tentativa:
    - O usuário digita um número.
-   - O contador de tentativas é incrementado.
+   - O contador de tentativas aumenta.
    - O programa verifica se o número digitado é menor ou maior que o número secreto.
 
 6. O programa fornece dicas:

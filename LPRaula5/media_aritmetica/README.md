@@ -6,7 +6,7 @@ Este programa em C++ calcula a média aritmética de uma quantidade de números 
 
 O usuário define quantos números deseja inserir, e o programa soma todos os valores digitados para calcular a média.
 
-Depois disso, o resultado é exibido com `2 casas decimais`.
+Depois disso, o resultado é exibido com 2 casas decimais.
 
 ---
 ## Como funciona

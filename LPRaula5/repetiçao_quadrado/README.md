@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este programa em C# calcula o quadrado de um número inteiro informado pelo usuário e, em seguida, realiza a soma dos dígitos desse resultado.
+Este programa em C# calcula o quadrado de um número inteiro informado pelo usuário, em seguida, realiza a soma dos dígitos desse resultado.
 
 O usuário digita um número, e o programa eleva esse valor ao quadrado.
 
