@@ -6,7 +6,7 @@ Este programa em C# calcula o valor total a pagar por duas peças diferentes com
 
 O usuário informa o código, a quantidade e o valor unitário das duas peças.
 
-Depois disso, o programa calcula o valor total da compra e exibe o resultado formatado com 2 casas decimais.
+Depois disso, o programa calcula o valor total da compra e exibe o resultado formatado com 2 casas decimais.;
 
 ---
 ## Como funciona
