@@ -7,7 +7,7 @@
 
         while (numero != numeroAleatorio)
         {
-            Console.WriteLine("Digite um numero:");
+            Console.WriteLine("Digite algumnumero:");
             numero = int.Parse(Console.ReadLine());
             tentativas++;
 

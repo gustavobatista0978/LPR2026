@@ -30,7 +30,7 @@ int main() {
 
     cout << "\n--- Resultado do Treinamento ---" << endl;
     cout << "Total de horas alcancadas: " << horasAcumuladas << "h" << endl;
-    cout << "Dias de treino real (sem FDS): " << diasDeTreinoEfetivo << " dias" << endl;
+    cout << "Dias de treino (sem FDS): " << diasDeTreinoEfetivo << " dias" << endl;
     cout << "Tempo total corrido: " << diaAtual << " dias" << endl;
     cout << "Equivale a aproximadamente:" << endl;
     cout << "* " << semanas << " semanas" << endl;
