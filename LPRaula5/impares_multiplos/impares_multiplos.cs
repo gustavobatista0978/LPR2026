@@ -7,4 +7,4 @@ for (int i = 50; i <= 500; i++)
         soma += i;
     }
 }
-Console.WriteLine("A soma dos números ímpares e múltiplos de 3 entre 50 e 500 é: " + soma);
+Console.WriteLine("A soma dos números impares e múltiplos de 3 entre 50 e 500 é: " + soma);

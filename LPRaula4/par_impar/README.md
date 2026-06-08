@@ -4,7 +4,7 @@
 
 Este programa em C# verifica se um número inteiro informado pelo usuário é par ou ímpar.
 
-O usuário digita um número inteiro, e o programa utiliza o operador de resto da divisão (`%`) para identificar se o número é divisível por `2`.
+O usuário digita um número inteiro, e o programa utiliza o operador(`%`) para identificar se o número é divisível por `2`.
 
 Depois disso, o resultado é exibido informando se o número é par ou ímpar.
 

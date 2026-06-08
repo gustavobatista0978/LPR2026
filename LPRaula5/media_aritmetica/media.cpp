@@ -18,7 +18,7 @@ int main() {
 
     double media = sum / n;
     cout << fixed << setprecision(2);
-    cout << "A media aritmetica e: " << media << endl;
+    cout << "A media aritmetica é: " << media << endl;
 
     return 0;
 }

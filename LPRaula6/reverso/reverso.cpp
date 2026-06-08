@@ -14,8 +14,8 @@ int inverterInteiro(int n) {
 
 int main() {
     int numero = -1234;
-    std::cout << "Original: " << numero << std::endl;
-    std::cout << "Reverso: " << inverterInteiro(numero) << std::endl;
+    std::cout << "numero Original: " << numero << std::endl;
+    std::cout << "numero Reverso: " << inverterInteiro(numero) << std::endl;
 
     return 0;
 }

@@ -8,4 +8,4 @@ long digito = quadrado % 10;
 soma += digito;
 quadrado /= 10;
 }
-Console.WriteLine("A soma dos dígitos do quadrado é: " + soma);
+Console.WriteLine("A soma dos digitos do quadrado é: " + soma);
