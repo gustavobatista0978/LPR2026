@@ -10,7 +10,7 @@ Depois disso, o resultado é exibido com 4 casas decimais.
 ---
 ## Como funciona
 
-1. O programa pede ao usuário o valor do raio.
+1. O programa pede ao usuario o valor do raio.
 
 2. O valor digitado é armazenado em uma variável.
 

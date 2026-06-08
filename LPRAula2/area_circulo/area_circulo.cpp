@@ -2,7 +2,7 @@
 #include <iomanip>
 
 int main() {
-    std::cout << "Digite o valor da raio:" << std::endl;
+    std::cout << "Digite o valor do raio:" << std::endl;
     double raio;
 	if (!(std::cin >> raio)) return 0;
 	const double PI = 3.14159;

@@ -15,7 +15,7 @@ Depois disso, o programa calcula o valor total da compra e exibe o resultado for
 
 2. O usuário informa a quantidade de peças da primeira unidade.
 
-3. O usuário informa o valor unitário da primeira peça.
+3. O usuário informa o valor unitario da primeira peça.
 
 4. O programa pede as mesmas informações para a segunda peça.
 

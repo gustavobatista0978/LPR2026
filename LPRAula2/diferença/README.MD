@@ -6,7 +6,7 @@ Este programa em C++ calcula a diferença entre o produto de dois pares de núme
 
 O usuário digita 4 valores inteiros, e o programa utiliza a operação matemática:
 
-(A × B) - (C × D)
+(A × B)-(C × D)
 
 Depois disso, o resultado da diferença é exibido na tela.
 

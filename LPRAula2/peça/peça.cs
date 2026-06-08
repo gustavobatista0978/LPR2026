@@ -8,7 +8,7 @@ Console.WriteLine("Digite o código da peça 2 :");
 int codigo2 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Digite a quantidade de peças da unidade 2: ");
 int quantidade2 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Digite o valor unitário da peça 2: ");
+Console.WriteLine("Digite o valor unitario da peça 2: ");
 double valorUnitario2 = Convert.ToDouble(Console.ReadLine());
 
 double valorTotal = (quantidade * valorUnitario) + (quantidade2 * valorUnitario2);

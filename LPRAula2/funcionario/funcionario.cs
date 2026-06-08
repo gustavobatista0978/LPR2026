@@ -2,7 +2,7 @@
 int numero = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("O número de horas trabalhadas:");
 int horastrabalhadas = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("O valor que recebe por hora:");
+Console.WriteLine("O valor que voce recebe por hora:");
 double valorhora = Convert.ToDouble(Console.ReadLine());
 
 double salario = horastrabalhadas * valorhora;

@@ -2,11 +2,11 @@
 
 ## Descrição
 
-Este programa em C# calcula o salário de um funcionário com base no número de horas trabalhadas e no valor recebido por hora.
+Este programa em C# calcula o salario de um funcionário com base no número de horas trabalhadas e no valor recebido por hora.
 
 O usuário informa o número do funcionário, a quantidade de horas trabalhadas e o valor pago por hora.
 
-Depois disso, o programa calcula o salário total e exibe o resultado formatado com 2 casas decimais.
+Depois disso, o programa calcula o salario total e exibe o resultado formatado com 2 casas decimais.
 
 ---
 ## Como funciona
