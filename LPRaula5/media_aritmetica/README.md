@@ -17,7 +17,7 @@ Depois disso, o resultado é exibido com 2 casas decimais.
 
 3. O programa utiliza um laço `for` para repetir a entrada dos números.
 
-4. Cada número digitado é somado à variável `sum`.
+4. Cada número digitado é somado à variável sum.
 
 5. Após o término do laço, a média aritmética é calculada dividindo a soma pela quantidade de números.
 

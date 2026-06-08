@@ -21,7 +21,7 @@
             }
         }
 
-        Console.WriteLine("Parabéns, você acertou o numero!");
-        Console.WriteLine("O numero aleatorio era: " + numeroAleatorio);
-        Console.WriteLine("Você precisou de " + tentativas + " tentativas para acertar o numero!");
-   
+        Console.WriteLine("Parabéns, você acertou o número!");
+        Console.WriteLine("O número aleatório era: " + numeroAleatorio);
+        Console.WriteLine("Você precisou de " + tentativas + " tentativas para acertar o número!");
+    

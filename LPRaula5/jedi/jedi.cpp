@@ -8,7 +8,7 @@ int main() {
     int diaAtual = 1; 
     int diasDeTreinoEfetivo = 0;
 
-    cout << "--- Simulador de Treinamento Jedi ---" << endl;
+    cout << "--- Simulador de Treinamento Jedi! ---" << endl;
     cout << "Quantas horas voce treina por dia? ";
     cin >> horasPorDia;
 

@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Números ímpares e múltiplos de 3 entre 50 e 500:");
+﻿Console.WriteLine("Números impares e múltiplos de 3 entre 50 e 500:");
 int soma = 0;
 for (int i = 50; i <= 500; i++)
 {

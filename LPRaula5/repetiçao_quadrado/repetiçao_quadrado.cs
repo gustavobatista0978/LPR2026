@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Digite um número");
+﻿Console.WriteLine("Digite um numero");
 long numero = long.Parse(Console.ReadLine());
 long quadrado = numero * (long)numero;
 long soma = 0;

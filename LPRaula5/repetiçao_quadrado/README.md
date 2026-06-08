@@ -13,7 +13,7 @@ Depois disso, os dígitos do quadrado são separados e somados, exibindo o resul
 
 1. O programa pede ao usuário um número inteiro.
 
-2. O valor digitado é armazenado na variável `numero`.
+2. O valor digitado é armazenado na variável numero.
 
 3. O programa calcula o quadrado do número.
 

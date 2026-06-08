@@ -11,7 +11,7 @@ int main() {
 
     for (int i = 0; i < n; ++i) {
         double num;
-        cout << "Digite o numero " << (i + 1) << ": ";
+        cout << "Digite os numeros " << (i + 1) << ": ";
         cin >> num;
         sum += num;
     }

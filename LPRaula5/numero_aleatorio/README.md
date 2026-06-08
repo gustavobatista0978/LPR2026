@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este programa em C# cria um jogo de adivinhação em que o usuário deve descobrir um número aleatório entre `0` e `100`.
+Este programa em C# cria um jogo de adivinhação em que o usuário deve descobrir um número aleatório entre 0 e 100.
 
 O programa gera um número aleatório e permite que o usuário faça várias tentativas até acertar.
 

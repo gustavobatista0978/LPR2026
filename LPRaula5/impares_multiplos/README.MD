@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este programa em C# calcula a soma dos números ímpares que também são múltiplos de `3` no intervalo entre `50` e `500`.
+Este programa em C# calcula a soma dos números ímpares que também são múltiplos de 3 no intervalo entre `50` e `500`.
 
 O programa percorre todos os números dentro desse intervalo e verifica quais atendem às condições: ser ímpar e múltiplo de `3`.
 
