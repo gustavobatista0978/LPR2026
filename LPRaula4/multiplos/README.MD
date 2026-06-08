@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este programa em C++ verifica se dois números inteiros digitados pelo usuário são múltiplos entre si.
+Este programa em C++ verifica se dois números inteiros digitados pelo usuário são múltiplos entre eles.
 
 O usuário digita dois valores inteiros, e o programa utiliza o operador de resto da divisão (`%`) para verificar se um número é divisível pelo outro.
 

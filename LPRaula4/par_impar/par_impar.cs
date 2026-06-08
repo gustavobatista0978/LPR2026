@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Digite um numero inteiro ");
+﻿Console.WriteLine("Digite o numero inteiro ");
 int numero = int.Parse(Console.ReadLine());
 
 if (numero % 2 == 0)

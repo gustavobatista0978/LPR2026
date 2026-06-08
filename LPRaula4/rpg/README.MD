@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este programa em C# simula a escolha de uma classe em um jogo de RPG.
+Este programa em C# simula a escolha de uma classe em um RPG.
 
 O usuário escolhe uma opção entre Guerreiro, Mago ou Arqueira, digitando um número correspondente.
 
