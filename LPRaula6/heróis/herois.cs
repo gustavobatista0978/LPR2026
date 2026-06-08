@@ -13,7 +13,7 @@ class Program {
     
     static void Main(string[] args) 
     {
-        Console.WriteLine("Bem-vindo ao programa de heróis!");
+        Console.WriteLine("Bem-vindo ao programa de heróis!!");
         Console.WriteLine("Aqui você pode criar e interagir com seus heróis favoritos.");
 
         menuprincipal();

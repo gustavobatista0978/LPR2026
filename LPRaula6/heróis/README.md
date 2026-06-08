@@ -4,7 +4,7 @@
 
 Este programa em C# simula um sistema de cadastro e gerenciamento de heróis.
 
-O usuário pode cadastrar até `5 heróis`, selecionar uma equipe com `3 heróis`, calcular a pontuação total da equipe e visualizar os integrantes escolhidos.
+O usuário pode cadastrar 5 heróis , selecionar uma equipe com 3 heróis, calcular a pontuação total da equipe e visualizar os integrantes escolhidos.
 
 Depois disso, o programa continua funcionando por meio de um menu principal até que o usuário escolha sair.
 

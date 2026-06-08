@@ -8,7 +8,7 @@ void exercicio1(int inicio, int fim) {
     for (int i = inicio; i <= fim; i++) {
         soma += i;
     }
-    cout << "\n[Ex 1] A soma dos numeros entre " << inicio << " e " << fim << " é: " << soma << endl;
+    cout << "\n[Ex 1] a soma dos numeros entre " << inicio << " e " << fim << " é: " << soma << endl;
 }
 
 void exercicio3(int n) {
