@@ -1,0 +1,14 @@
+C:\Users\alunos\Desktop\LPRAula2\cidades\bin\Debug\net9.0\cidades.exe
+C:\Users\alunos\Desktop\LPRAula2\cidades\bin\Debug\net9.0\cidades.deps.json
+C:\Users\alunos\Desktop\LPRAula2\cidades\bin\Debug\net9.0\cidades.runtimeconfig.json
+C:\Users\alunos\Desktop\LPRAula2\cidades\bin\Debug\net9.0\cidades.dll
+C:\Users\alunos\Desktop\LPRAula2\cidades\bin\Debug\net9.0\cidades.pdb
+C:\Users\alunos\Desktop\LPRAula2\cidades\obj\Debug\net9.0\cidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\LPRAula2\cidades\obj\Debug\net9.0\cidades.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\LPRAula2\cidades\obj\Debug\net9.0\cidades.AssemblyInfo.cs
+C:\Users\alunos\Desktop\LPRAula2\cidades\obj\Debug\net9.0\cidades.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\LPRAula2\cidades\obj\Debug\net9.0\cidades.dll
+C:\Users\alunos\Desktop\LPRAula2\cidades\obj\Debug\net9.0\refint\cidades.dll
+C:\Users\alunos\Desktop\LPRAula2\cidades\obj\Debug\net9.0\cidades.pdb
+C:\Users\alunos\Desktop\LPRAula2\cidades\obj\Debug\net9.0\cidades.genruntimeconfig.cache
+C:\Users\alunos\Desktop\LPRAula2\cidades\obj\Debug\net9.0\ref\cidades.dll

@@ -1,0 +1,14 @@
+C:\Users\alunos\Desktop\LPRAula2\multiplica\bin\Debug\net9.0\multiplica.exe
+C:\Users\alunos\Desktop\LPRAula2\multiplica\bin\Debug\net9.0\multiplica.deps.json
+C:\Users\alunos\Desktop\LPRAula2\multiplica\bin\Debug\net9.0\multiplica.runtimeconfig.json
+C:\Users\alunos\Desktop\LPRAula2\multiplica\bin\Debug\net9.0\multiplica.dll
+C:\Users\alunos\Desktop\LPRAula2\multiplica\bin\Debug\net9.0\multiplica.pdb
+C:\Users\alunos\Desktop\LPRAula2\multiplica\obj\Debug\net9.0\multiplica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\LPRAula2\multiplica\obj\Debug\net9.0\multiplica.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\LPRAula2\multiplica\obj\Debug\net9.0\multiplica.AssemblyInfo.cs
+C:\Users\alunos\Desktop\LPRAula2\multiplica\obj\Debug\net9.0\multiplica.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\LPRAula2\multiplica\obj\Debug\net9.0\multiplica.dll
+C:\Users\alunos\Desktop\LPRAula2\multiplica\obj\Debug\net9.0\refint\multiplica.dll
+C:\Users\alunos\Desktop\LPRAula2\multiplica\obj\Debug\net9.0\multiplica.pdb
+C:\Users\alunos\Desktop\LPRAula2\multiplica\obj\Debug\net9.0\multiplica.genruntimeconfig.cache
+C:\Users\alunos\Desktop\LPRAula2\multiplica\obj\Debug\net9.0\ref\multiplica.dll

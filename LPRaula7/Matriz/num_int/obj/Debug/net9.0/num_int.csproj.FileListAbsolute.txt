@@ -1,0 +1,14 @@
+C:\Users\alunos\Desktop\LPRAula2\num_int\bin\Debug\net9.0\num_int.exe
+C:\Users\alunos\Desktop\LPRAula2\num_int\bin\Debug\net9.0\num_int.deps.json
+C:\Users\alunos\Desktop\LPRAula2\num_int\bin\Debug\net9.0\num_int.runtimeconfig.json
+C:\Users\alunos\Desktop\LPRAula2\num_int\bin\Debug\net9.0\num_int.dll
+C:\Users\alunos\Desktop\LPRAula2\num_int\bin\Debug\net9.0\num_int.pdb
+C:\Users\alunos\Desktop\LPRAula2\num_int\obj\Debug\net9.0\num_int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\LPRAula2\num_int\obj\Debug\net9.0\num_int.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\LPRAula2\num_int\obj\Debug\net9.0\num_int.AssemblyInfo.cs
+C:\Users\alunos\Desktop\LPRAula2\num_int\obj\Debug\net9.0\num_int.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\LPRAula2\num_int\obj\Debug\net9.0\num_int.dll
+C:\Users\alunos\Desktop\LPRAula2\num_int\obj\Debug\net9.0\refint\num_int.dll
+C:\Users\alunos\Desktop\LPRAula2\num_int\obj\Debug\net9.0\num_int.pdb
+C:\Users\alunos\Desktop\LPRAula2\num_int\obj\Debug\net9.0\num_int.genruntimeconfig.cache
+C:\Users\alunos\Desktop\LPRAula2\num_int\obj\Debug\net9.0\ref\num_int.dll
