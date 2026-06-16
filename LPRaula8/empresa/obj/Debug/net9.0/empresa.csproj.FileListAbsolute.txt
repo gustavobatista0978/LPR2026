@@ -1,0 +1,14 @@
+C:\Users\alunos\Desktop\LPRAula2\empresa\bin\Debug\net9.0\empresa.exe
+C:\Users\alunos\Desktop\LPRAula2\empresa\bin\Debug\net9.0\empresa.deps.json
+C:\Users\alunos\Desktop\LPRAula2\empresa\bin\Debug\net9.0\empresa.runtimeconfig.json
+C:\Users\alunos\Desktop\LPRAula2\empresa\bin\Debug\net9.0\empresa.dll
+C:\Users\alunos\Desktop\LPRAula2\empresa\bin\Debug\net9.0\empresa.pdb
+C:\Users\alunos\Desktop\LPRAula2\empresa\obj\Debug\net9.0\empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\LPRAula2\empresa\obj\Debug\net9.0\empresa.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\LPRAula2\empresa\obj\Debug\net9.0\empresa.AssemblyInfo.cs
+C:\Users\alunos\Desktop\LPRAula2\empresa\obj\Debug\net9.0\empresa.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\LPRAula2\empresa\obj\Debug\net9.0\empresa.dll
+C:\Users\alunos\Desktop\LPRAula2\empresa\obj\Debug\net9.0\refint\empresa.dll
+C:\Users\alunos\Desktop\LPRAula2\empresa\obj\Debug\net9.0\empresa.pdb
+C:\Users\alunos\Desktop\LPRAula2\empresa\obj\Debug\net9.0\empresa.genruntimeconfig.cache
+C:\Users\alunos\Desktop\LPRAula2\empresa\obj\Debug\net9.0\ref\empresa.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("multiplica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afdf9d87221be60082216cdf1fa44e523ced1b5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cd268aeef1bef9521388bba7dfc3b3d9f2f53d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("multiplica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("multiplica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
