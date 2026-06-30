@@ -1,0 +1,14 @@
+C:\Users\alunos\Desktop\LPRAula2\nome\obj\Debug\net9.0\nome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\LPRAula2\nome\obj\Debug\net9.0\nome.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\LPRAula2\nome\obj\Debug\net9.0\nome.AssemblyInfo.cs
+C:\Users\alunos\Desktop\LPRAula2\nome\obj\Debug\net9.0\nome.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\LPRAula2\nome\bin\Debug\net9.0\nome.exe
+C:\Users\alunos\Desktop\LPRAula2\nome\bin\Debug\net9.0\nome.deps.json
+C:\Users\alunos\Desktop\LPRAula2\nome\bin\Debug\net9.0\nome.runtimeconfig.json
+C:\Users\alunos\Desktop\LPRAula2\nome\bin\Debug\net9.0\nome.dll
+C:\Users\alunos\Desktop\LPRAula2\nome\bin\Debug\net9.0\nome.pdb
+C:\Users\alunos\Desktop\LPRAula2\nome\obj\Debug\net9.0\nome.dll
+C:\Users\alunos\Desktop\LPRAula2\nome\obj\Debug\net9.0\refint\nome.dll
+C:\Users\alunos\Desktop\LPRAula2\nome\obj\Debug\net9.0\nome.pdb
+C:\Users\alunos\Desktop\LPRAula2\nome\obj\Debug\net9.0\nome.genruntimeconfig.cache
+C:\Users\alunos\Desktop\LPRAula2\nome\obj\Debug\net9.0\ref\nome.dll
