@@ -1,0 +1,14 @@
+C:\Users\alunos\Desktop\LPRaula10\triangulo\bin\Debug\net9.0\Triangulo.exe
+C:\Users\alunos\Desktop\LPRaula10\triangulo\bin\Debug\net9.0\Triangulo.deps.json
+C:\Users\alunos\Desktop\LPRaula10\triangulo\bin\Debug\net9.0\Triangulo.runtimeconfig.json
+C:\Users\alunos\Desktop\LPRaula10\triangulo\bin\Debug\net9.0\Triangulo.dll
+C:\Users\alunos\Desktop\LPRaula10\triangulo\bin\Debug\net9.0\Triangulo.pdb
+C:\Users\alunos\Desktop\LPRaula10\triangulo\obj\Debug\net9.0\Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\LPRaula10\triangulo\obj\Debug\net9.0\Triangulo.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\LPRaula10\triangulo\obj\Debug\net9.0\Triangulo.AssemblyInfo.cs
+C:\Users\alunos\Desktop\LPRaula10\triangulo\obj\Debug\net9.0\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\LPRaula10\triangulo\obj\Debug\net9.0\Triangulo.dll
+C:\Users\alunos\Desktop\LPRaula10\triangulo\obj\Debug\net9.0\refint\Triangulo.dll
+C:\Users\alunos\Desktop\LPRaula10\triangulo\obj\Debug\net9.0\Triangulo.pdb
+C:\Users\alunos\Desktop\LPRaula10\triangulo\obj\Debug\net9.0\Triangulo.genruntimeconfig.cache
+C:\Users\alunos\Desktop\LPRaula10\triangulo\obj\Debug\net9.0\ref\Triangulo.dll

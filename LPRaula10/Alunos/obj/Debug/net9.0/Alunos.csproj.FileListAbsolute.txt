@@ -1,0 +1,14 @@
+C:\Users\alunos\Desktop\LPRaula10\Alunos\bin\Debug\net9.0\Alunos.exe
+C:\Users\alunos\Desktop\LPRaula10\Alunos\bin\Debug\net9.0\Alunos.deps.json
+C:\Users\alunos\Desktop\LPRaula10\Alunos\bin\Debug\net9.0\Alunos.runtimeconfig.json
+C:\Users\alunos\Desktop\LPRaula10\Alunos\bin\Debug\net9.0\Alunos.dll
+C:\Users\alunos\Desktop\LPRaula10\Alunos\bin\Debug\net9.0\Alunos.pdb
+C:\Users\alunos\Desktop\LPRaula10\Alunos\obj\Debug\net9.0\Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\LPRaula10\Alunos\obj\Debug\net9.0\Alunos.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\LPRaula10\Alunos\obj\Debug\net9.0\Alunos.AssemblyInfo.cs
+C:\Users\alunos\Desktop\LPRaula10\Alunos\obj\Debug\net9.0\Alunos.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\LPRaula10\Alunos\obj\Debug\net9.0\Alunos.dll
+C:\Users\alunos\Desktop\LPRaula10\Alunos\obj\Debug\net9.0\refint\Alunos.dll
+C:\Users\alunos\Desktop\LPRaula10\Alunos\obj\Debug\net9.0\Alunos.pdb
+C:\Users\alunos\Desktop\LPRaula10\Alunos\obj\Debug\net9.0\Alunos.genruntimeconfig.cache
+C:\Users\alunos\Desktop\LPRaula10\Alunos\obj\Debug\net9.0\ref\Alunos.dll

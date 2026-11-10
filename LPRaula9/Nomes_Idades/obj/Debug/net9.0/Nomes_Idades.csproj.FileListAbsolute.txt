@@ -1,0 +1,14 @@
+C:\Users\alunos\Desktop\LPRAula2\Nomes_Idades\bin\Debug\net9.0\Nomes_Idades.exe
+C:\Users\alunos\Desktop\LPRAula2\Nomes_Idades\bin\Debug\net9.0\Nomes_Idades.deps.json
+C:\Users\alunos\Desktop\LPRAula2\Nomes_Idades\bin\Debug\net9.0\Nomes_Idades.runtimeconfig.json
+C:\Users\alunos\Desktop\LPRAula2\Nomes_Idades\bin\Debug\net9.0\Nomes_Idades.dll
+C:\Users\alunos\Desktop\LPRAula2\Nomes_Idades\bin\Debug\net9.0\Nomes_Idades.pdb
+C:\Users\alunos\Desktop\LPRAula2\Nomes_Idades\obj\Debug\net9.0\Nomes_Idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\LPRAula2\Nomes_Idades\obj\Debug\net9.0\Nomes_Idades.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\LPRAula2\Nomes_Idades\obj\Debug\net9.0\Nomes_Idades.AssemblyInfo.cs
+C:\Users\alunos\Desktop\LPRAula2\Nomes_Idades\obj\Debug\net9.0\Nomes_Idades.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\LPRAula2\Nomes_Idades\obj\Debug\net9.0\Nomes_Idades.dll
+C:\Users\alunos\Desktop\LPRAula2\Nomes_Idades\obj\Debug\net9.0\refint\Nomes_Idades.dll
+C:\Users\alunos\Desktop\LPRAula2\Nomes_Idades\obj\Debug\net9.0\Nomes_Idades.pdb
+C:\Users\alunos\Desktop\LPRAula2\Nomes_Idades\obj\Debug\net9.0\Nomes_Idades.genruntimeconfig.cache
+C:\Users\alunos\Desktop\LPRAula2\Nomes_Idades\obj\Debug\net9.0\ref\Nomes_Idades.dll
