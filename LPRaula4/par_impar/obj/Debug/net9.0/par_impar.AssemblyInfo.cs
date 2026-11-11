@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("par_impar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5e2c1de09185c3a4200aeb6bbbdbd426ae4bb96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1933a3ad2d043949201be84b9bb64f8a8c7082d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("par_impar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("par_impar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
